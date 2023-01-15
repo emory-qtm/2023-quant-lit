@@ -35,7 +35,7 @@ you can; we’ll work through this in class as well*
 	* Theodor H. Nelson, “[Chapter 0: Hyperworld](https://monoskop.org/images/b/be/Nelson_Ted_Literary_Machines_c1987_chs_0-1.pdf )” *Literary Machines* (1981).  
 	* Shan Carter and Michael Nielsen. "[Using artificial intelligence to augment human intelligence](https://distill.pub/2017/aia/)" *Distill* 2.12 (2017): e9. 
 	* Daniel C. Howe and A. Braxton Soderman. "[The aesthetics of generative literature: lessons from a digital writing workshop](http://hyperrhiz.io/hyperrhiz06/essays/the-aesthetics-of-generative-literature-lessons-from-a-digital-writing-workshop.html )" *Hyperrhiz Journal of New Media Cultures* (2009).  
-	* David Jhave Johnston, "[ReRites: Machine Learning Poetry Edited by a Human](http://glia. ca/rerites)," *Glia* (2019).
+	* David Jhave Johnston, "[ReRites: Machine Learning Poetry Edited by a Human](http://glia.ca/rerites)," *Glia* (2019).
 	* Lai-Tze Fan, “Symbiotic Authorship: A Comparative Textual Criticism of AI-Generated and Human-Edited Poetry.” *ReRites: Responses*, edited by Stephanie Strickland, Anteism, 2019, pp. 57-64. (Canvas)
 
 * In class:
